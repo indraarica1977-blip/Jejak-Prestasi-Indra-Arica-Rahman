@@ -84,9 +84,3 @@ Exported from Base44 App
 | 3 hari | PUSDAI SUMEDANG – Disdik Provinsi Jawa Barat | Pelatihan Calon Tutor Paket B Setara SMP | Administrasi | 2006 | 2 | 2026-09-23T17:05:10.321000 | 2026-09-23T17:05:10.321000 | false |
 | 1 hari | UNJANI - BANDUNG | Seminar Teknologi Internet dan Penerapannya | Teknologi | 1996 | 1 | 2026-09-23T17:05:10.321000 | 2026-09-23T17:05:10.321000 | false |
 
-# User
-
-| role | created_date | updated_date | email | full_name | disabled | disabled_reason | is_verified | force_password_reset | app_id | is_service | collaborator_role | _app_role |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| admin | 2026-09-23T03:51:45.576000Z | 2026-09-23T03:51:45.576000Z | indraarica1977@gmail.com | INDRA ARICA |  |  | true | false | 6ab34ccd78772fbe289647be | false | editor | admin |
-

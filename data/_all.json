@@ -748,23 +748,5 @@
       "created_by_id": "6ab34cd178772fbe289647c1",
       "is_sample": false
     }
-  ],
-  "User": [
-    {
-      "role": "admin",
-      "id": "6ab34cd178772fbe289647c1",
-      "created_date": "2026-09-23T03:51:45.576000Z",
-      "updated_date": "2026-09-23T03:51:45.576000Z",
-      "email": "indraarica1977@gmail.com",
-      "full_name": "INDRA ARICA",
-      "disabled": null,
-      "disabled_reason": null,
-      "is_verified": true,
-      "force_password_reset": false,
-      "app_id": "6ab34ccd78772fbe289647be",
-      "is_service": false,
-      "collaborator_role": "editor",
-      "_app_role": "admin"
-    }
   ]
 }
