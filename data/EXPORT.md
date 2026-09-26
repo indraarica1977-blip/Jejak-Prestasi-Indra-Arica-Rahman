@@ -8,7 +8,7 @@ Exported from Base44 App
 
 | site_name | hero_badge | visitor_count | logo_url | nav_links | hero_subtitle | hero_image_url | footer_text | hero_title | hero_quote | footer_copyright | logo_text | created_date | updated_date | is_sample |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jejak Pengabdian & Dedikasi | Jejak Pengabdian & Dedikasi | 124 | https://base44.app/api/apps/6ab34ccd78772fbe289647 | [{"path":"/","label":"Beranda" | Perjalanan panjang dari seorang Tenaga Kontrak Ker | https://base44.app/api/apps/6ab34ccd78772fbe289647 | Portofolio naratif Indra Arica Rahman, S.E., M.M.  | Saya tidak memulai dari sebuah JABATAN | Tidak semua perjalanan mendapatkan tepuk tangan. T | @2026 Copyright & Development by. Indra Arica, SE, |  | 2026-09-23T04:45:38.776000 | 2026-09-26T09:02:35.195000 | false |
+| Jejak Pengabdian & Dedikasi | Jejak Pengabdian & Dedikasi | 126 | https://base44.app/api/apps/6ab34ccd78772fbe289647 | [{"path":"/","label":"Beranda" | Perjalanan panjang dari seorang Tenaga Kontrak Ker | https://base44.app/api/apps/6ab34ccd78772fbe289647 | Portofolio naratif Indra Arica Rahman, S.E., M.M.  | Saya tidak memulai dari sebuah JABATAN | Tidak semua perjalanan mendapatkan tepuk tangan. T | @2026 Copyright & Development by. Indra Arica, SE, |  | 2026-09-23T04:45:38.776000 | 2026-09-26T18:07:18.756000 | false |
 
 # Karya
 
@@ -83,4 +83,10 @@ Exported from Base44 App
 | 1 hari | GEDUNG LEC - GARUT – Disdik Kab. Garut | Workshop Pengarusutamaan Gender | Administrasi | 2006 | 3 | 2026-09-23T17:05:10.321000 | 2026-09-23T17:05:10.321000 | false |
 | 3 hari | PUSDAI SUMEDANG – Disdik Provinsi Jawa Barat | Pelatihan Calon Tutor Paket B Setara SMP | Administrasi | 2006 | 2 | 2026-09-23T17:05:10.321000 | 2026-09-23T17:05:10.321000 | false |
 | 1 hari | UNJANI - BANDUNG | Seminar Teknologi Internet dan Penerapannya | Teknologi | 1996 | 1 | 2026-09-23T17:05:10.321000 | 2026-09-23T17:05:10.321000 | false |
+
+# User
+
+| role | created_date | updated_date | email | full_name | disabled | disabled_reason | is_verified | force_password_reset | app_id | is_service | collaborator_role | _app_role |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| admin | 2026-09-23T03:51:45.576000Z | 2026-09-23T03:51:45.576000Z | indraarica1977@gmail.com | INDRA ARICA |  |  | true | false | 6ab34ccd78772fbe289647be | false | editor | admin |
 

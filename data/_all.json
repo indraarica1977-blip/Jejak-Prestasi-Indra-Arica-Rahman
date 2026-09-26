@@ -3,7 +3,7 @@
     {
       "site_name": "Jejak Pengabdian & Dedikasi",
       "hero_badge": "Jejak Pengabdian & Dedikasi",
-      "visitor_count": 124,
+      "visitor_count": 126,
       "logo_url": "https://base44.app/api/apps/6ab34ccd78772fbe289647be/files/mp/public/6ab34ccd78772fbe289647be/7d595ce37_ChatGPTImage6Sep2026112314.png",
       "nav_links": [
         {
@@ -44,7 +44,7 @@
       "logo_text": "",
       "id": "6ab3597236752404f69f3fbb",
       "created_date": "2026-09-23T04:45:38.776000",
-      "updated_date": "2026-09-26T09:02:35.195000",
+      "updated_date": "2026-09-26T18:07:18.756000",
       "created_by_id": "6ab34cd178772fbe289647c1",
       "is_sample": false
     }
@@ -747,6 +747,24 @@
       "updated_date": "2026-09-23T17:05:10.321000",
       "created_by_id": "6ab34cd178772fbe289647c1",
       "is_sample": false
+    }
+  ],
+  "User": [
+    {
+      "role": "admin",
+      "id": "6ab34cd178772fbe289647c1",
+      "created_date": "2026-09-23T03:51:45.576000Z",
+      "updated_date": "2026-09-23T03:51:45.576000Z",
+      "email": "indraarica1977@gmail.com",
+      "full_name": "INDRA ARICA",
+      "disabled": null,
+      "disabled_reason": null,
+      "is_verified": true,
+      "force_password_reset": false,
+      "app_id": "6ab34ccd78772fbe289647be",
+      "is_service": false,
+      "collaborator_role": "editor",
+      "_app_role": "admin"
     }
   ]
 }
